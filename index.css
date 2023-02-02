@@ -4,6 +4,20 @@ body{
     background-color:#e3ccde !important;
     font-family:"cursive";
 }
+.carousel {
+    width:640px;
+    height:360px;
+    
+    margin-bottom: 20px;
+    padding-bottom:10px;
+  }
+.slide-show{
+    text-align:center;
+}
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
 /* .carousel-item{
     text-align:center;
     align-item:center;
